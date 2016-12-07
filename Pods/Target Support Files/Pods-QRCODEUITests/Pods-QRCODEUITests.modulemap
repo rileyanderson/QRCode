@@ -1,0 +1,6 @@
+framework module Pods_QRCODEUITests {
+  umbrella header "Pods-QRCODEUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_QRCODETests {
+  umbrella header "Pods-QRCODETests-umbrella.h"
+
+  export *
+  module * { export * }
+}
